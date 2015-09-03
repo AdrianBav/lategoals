@@ -18,3 +18,8 @@ temp/
 # Legacy ZF1
 demos/
 extras/documentation
+
+# Zend Project Files
+.project
+.buildpath
+.settings/
